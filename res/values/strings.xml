@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueBattleship</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_campo">field</string>
+    <string name="bt_act_bluetooth">Active bluetooth</string>
+    <string name="bt_deact_bluetooth">Disactive bluetooth</string>
+    <string name="bt_search_bt_devices">Search enemy</string>
+    <string name="title_activity_match">Match_Enemy</string>
+    <string name="title_activity_match__win">Match_Win</string>
+    <string name="title_activity_my__field">My_Field</string>
+    <string name="title_connected_to">connect a</string>
+    <string name="title_connecting">connectiog</string>
+    <string name="title_not_connected">not connect</string>
+    <string name="title_activity_match_enemy_2">Match_enemy_2</string>
+    <string name="title_activity_prova">Prova</string>
+
+</resources>
